@@ -5,8 +5,7 @@
 
 ## 📋 Currently ~
 1. 💭 Building Portfolio site v2 (with actual projects!)
-2. 🧠 Making a blog site as my pseudo-twitter replacement
-3. 🎅 Creating a Secret Santa application for my friends
+2. 🧠 Studying data structures and algorithms 
 
 <br/>
 
