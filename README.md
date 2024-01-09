@@ -2,10 +2,11 @@
 
 - 🎓 Recently graduated _BS Computer Science_ from **Ateneo de Manila University**
 - 🤖 Building side projects ~~(aka funemployed)~~ in the meantime
+- 📫 Looking for any work experience opportunities!
 
 ## 📋 Currently ~
-1. 💭 Building Portfolio site v2 (with actual projects!)
-2. 🧠 Studying data structures and algorithms 
+1. 💭 Building a personal website (pseudo-portfolio!)
+2. 🧠 Studying data structures and algorithms... again.
 
 <br/>
 
