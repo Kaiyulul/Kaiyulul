@@ -1,12 +1,12 @@
-## 👋 Heeey, Kyle here! 
+## 👋 Howdy, Kyle here! 
 
-- 🎓 Recently graduated _BS Computer Science_ from **Ateneo de Manila University**
-- 🤖 Building side projects ~~(aka funemployed)~~ in the meantime
+- 👨‍💻 Freelance Full-Stack Developer & Designer
+- 🤖 Building side projects in the meantime
 - 📫 Looking for any work experience opportunities!
 
 ## 📋 Currently ~
 1. 💭 Building a personal website (pseudo-portfolio!)
-2. 🧠 Studying data structures and algorithms... again.
+2. 🧠 Studying Liquid and React
 
 <br/>
 
