@@ -1,12 +1,16 @@
 ## 👋 Howdy, Kyle here! 
 
-- 👨‍💻 Freelance Full-Stack Developer & Designer
-- 🤖 Building side projects in the meantime
-- 📫 Looking for any work experience opportunities!
+- 👨‍💻 Freelance Full-Stack Developer
+- 📫 Available for *freelance*!
 
 ## 📋 Currently ~
-1. 💭 Building a personal website (pseudo-portfolio!)
-2. 🧠 Studying Liquid and React
+1. 💭 Building a personal [website](https://kaiyulul.github.io/)
+2. 🧠 Creating a Secret Santa app
+3. 🌱 Restudying Python and C
+
+## 🤖 Previously ~
+1. 👙 [*Blackbough Swim*](https://blackboughswim.com/) - Web Developer
+2. 👕 [*La Nada*](https://lanadabrand.com/) - Full-stack Developer
 
 <br/>
 
